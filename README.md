@@ -1,2 +1,2 @@
-# Iventives-client-
-Iventives- online event management website (client project)
+# Eventives-client-
+Eventives- online event management website (client project)
